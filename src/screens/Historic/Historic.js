@@ -26,8 +26,6 @@ class Historic extends Component {
 
     render() {
         const { chart, contacts } = this.props;
-
-        console.log("this.props", this.props)
         
         return (
             <LinearGradient 

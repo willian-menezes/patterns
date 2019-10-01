@@ -2,20 +2,12 @@ import React, { Component } from "react";
 import { withNavigation } from 'react-navigation';
 import { ContentButton, Box } from './style';
 
-import * as services from "./../../services";
 import Profile from './../../components/Profile';
 import ButtonStyled from './../../components/ButtonStyled';
 import LinearGradient from 'react-native-linear-gradient';
 
 class Home extends Component {
 
-    componentDidMount() {
-        //this.fetchPage();
-    }
-
-    fetchPage() {
-        //services.fetchDashboardPage();
-    }
 
     _goTo = (page) => {
         this.props.navigation.navigate(page);
