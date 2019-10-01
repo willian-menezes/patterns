@@ -36,12 +36,12 @@ class Historic extends Component {
             >
                 <Content>
                     {chart && (<Chart data={chart.transferences} />)}
-                    <FlatList 
+                    {contacts && (<FlatList 
                         data={contacts.transferences}
                         renderItem={({ item }) => <Contact data={item} handleClick={() => null} />}
                         keyExtractor={item => item.Id}
                         style={{marginTop: 15, flex: 1}}
-                    />
+                    />)}
                 </Content>
             </LinearGradient>
         );
