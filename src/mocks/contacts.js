@@ -12,7 +12,7 @@ export const CONTACTS = [
         "Id": 2,
         "ClienteId": 2,
         "Valor": 90000,
-        "Nome": "Felipe Gomes",
+        "Nome": "Luiza Minas",
         "Contato": "(11) 34634-6346",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-20T14:25:37.55"
@@ -21,7 +21,7 @@ export const CONTACTS = [
         "Id": 3,
         "ClienteId": 3,
         "Valor": 75000,
-        "Nome": "Willian Menezes",
+        "Nome": "Ana Flávia",
         "Contato": "(11) 58568-4634",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-20T14:25:37.55"
@@ -39,7 +39,7 @@ export const CONTACTS = [
         "Id": 5,
         "ClienteId": 5,
         "Valor": 68300,
-        "Nome": "Aline Pereira",
+        "Nome": "Henrique Pino",
         "Contato": "(11) 34356-3458",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-17T14:25:37.55"
@@ -48,7 +48,7 @@ export const CONTACTS = [
         "Id": 6,
         "ClienteId": 6,
         "Valor": 64300,
-        "Nome": "José Antônio",
+        "Nome": "Maria Grande",
         "Contato": "(11) 98632-1521",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-15T14:25:37.55"
@@ -66,7 +66,7 @@ export const CONTACTS = [
         "Id": 8,
         "ClienteId": 8,
         "Valor": 56000,
-        "Nome": "Amanda Duarte",
+        "Nome": "Mariana HH",
         "Contato": "(11) 97832-1521",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-10T14:25:37.55"
@@ -84,7 +84,7 @@ export const CONTACTS = [
         "Id": 10,
         "ClienteId": 10,
         "Valor": 45500,
-        "Nome": "Bruna De Oliveira",
+        "Nome": "José Amido",
         "Contato": "(11) 98632-1521",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-08T14:25:37.55"
@@ -93,7 +93,7 @@ export const CONTACTS = [
         "Id": 11,
         "ClienteId": 11,
         "Valor": 35000,
-        "Nome": "Flávia Andrade",
+        "Nome": "Flávio Andrade",
         "Contato": "(11) 23405-1621",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-07T14:25:37.55"
@@ -129,7 +129,7 @@ export const CONTACTS = [
         "Id": 15,
         "ClienteId": 15,
         "Valor": 12000,
-        "Nome": "Tiago Santos",
+        "Nome": "Vivian Santos",
         "Contato": "(11) 90932-1321",
         "Token": "1d40d305-c836-43a2-b4db-acc56bcc1393",
         "Data": "2016-08-02T14:25:37.55"

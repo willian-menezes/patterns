@@ -28,7 +28,7 @@ export default ({ data }) => {
                             </LinearGradient>
                         </BoxPercentageLine>
                         <PhotoProfile 
-                            image={{uri: `https://raw.githubusercontent.com/willian-menezes/patterns/images/src/assets/images/${item.Id}.jpg`}}
+                            image={{uri: `https://raw.githubusercontent.com/willian-menezes/patterns/images/src/assets/images/${item.ClienteId}.jpg`}}
                         />
                     </ContentItem>
                 ))}
