@@ -12,7 +12,7 @@ export default ({ data, handleClick, noValue }) => (
         >
             <Content>
                 <PhotoProfile 
-                    image={require('./../../assets/images/profile.png')} 
+                    image={{uri: `https://raw.githubusercontent.com/willian-menezes/patterns/master/src/assets/images/${data.Id}.jpg`}} 
                     width="65px"
                     height="65px"
                     radius="65px"
