@@ -71,7 +71,7 @@ class ModalComponent extends Component {
                             <TextButton>X</TextButton>
                         </ButtonClose>
                         <PhotoProfile 
-                            image={require('./../../assets/images/profile.png')} 
+                            image={{uri: `https://raw.githubusercontent.com/willian-menezes/patterns/master/src/assets/images/${data.ClienteId}.jpg`}} 
                             width="75px"
                             height="75px"
                             radius="75px"
