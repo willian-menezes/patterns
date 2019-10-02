@@ -12,7 +12,7 @@ export default ({ data, handleClick, noValue }) => (
         >
             <Content>
                 <PhotoProfile 
-                    image={{uri: `https://raw.githubusercontent.com/willian-menezes/patterns/images/src/assets/images/${data.ClienteId}.jpg`}} 
+                    image={{uri: `https://raw.githubusercontent.com/willian-menezes/patterns/master/src/assets/images/${data.ClienteId}.jpg`}} 
                     width="65px"
                     height="65px"
                     radius="65px"
